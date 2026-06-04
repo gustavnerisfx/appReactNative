@@ -143,7 +143,7 @@ const MainDrawer = () => {
         overlayColor: 'transparent',
       }}
     >
-      <Drawer.Screen name="ResenhaFlix" component={BttTab} />
+      <Drawer.Screen name="ResenhaFlixx" component={BttTab} />
       <Drawer.Screen name="Filmes" component={FilmesStack} />
       <Drawer.Screen name="Séries" component={SeriesStack} />
       <Drawer.Screen name="Animes" component={AnimesStack} />
