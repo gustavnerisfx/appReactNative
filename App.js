@@ -165,7 +165,6 @@ export default function App() {
     setIsDarkTheme(prev => !prev);
   };
 
-  // ✅ Corrigido: uso do adaptNavigationTheme para merge correto entre Paper e Navigation
   const { LightTheme, DarkTheme } = adaptNavigationTheme({
     reactNavigationLight: NavigationDefaultTheme,
     reactNavigationDark: NavigationDarkTheme,
