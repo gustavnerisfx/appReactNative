@@ -5,11 +5,14 @@
   O aplicativo possui temas escuro e claro, abas separadas em categorias, desing minimalista<br>e sofisticado.
 </p>
 
-## Linguagem usada
+## Linguagens, Bibliotecas e Frameworks utlizados
 
 - JavaScript
 - CSS
 - React Native Framework
+- React Native Paper
+- React Navigation
+- React Vector-Icons
 - Expo
 
 ## Imagens do projeto
