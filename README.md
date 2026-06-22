@@ -4,6 +4,7 @@
 <p>O app consiste em um simples "letterboxd" de resenhas únicas para filmes, séries e animes. <br> 
   O aplicativo possui temas escuro e claro, abas separadas em categorias, desing minimalista<br>e sofisticado.
 </p>
+<p>O porjeto foi criado no expo, versão SDK 54.</p>
 
 ## Linguagens, Bibliotecas e Frameworks utlizados
 
