@@ -4,6 +4,7 @@
 <p>O app consiste em um simples "letterboxd" de resenhas únicas para filmes, séries e animes. <br> 
   O aplicativo possui temas escuro e claro, abas separadas em categorias, desing minimalista<br>e sofisticado.
 </p>
+
 ## Linguagem usada
 
 - JavaScript
