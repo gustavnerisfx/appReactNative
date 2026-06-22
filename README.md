@@ -1,8 +1,9 @@
 # RESENHA FLIX
 
 <p>Este é um projeto feito para um trabalho de PAM na etec Fernando Prestes.</p>
-<p>O app consiste em um simples "letterboxd" de resenhas únicas para filmes, séries e animes.</p>
-<p>O aplicativo possui temas escuro e claro, abas separadas em categorias, desing minimalista e sofisticado.</p>
+<p>O app consiste em um simples "letterboxd" de resenhas únicas para filmes, séries e animes. <br> 
+  O aplicativo possui temas escuro e claro, abas separadas em categorias, desing minimalista e sofisticado.
+</p>
 ## Linguagem usada
 
 - JavaScript
