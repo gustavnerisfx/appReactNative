@@ -10,3 +10,5 @@
 - Expo
 
 ## Imagens do projeto
+
+![imagem do projeto](imgs_github/img1.png)
