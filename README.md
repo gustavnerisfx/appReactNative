@@ -8,6 +8,7 @@
 ## Linguagem usada
 
 - JavaScript
+- CSS
 - React Native Framework
 - Expo
 
